@@ -7,5 +7,6 @@ package com.admin.lochn;
 public class CommitTest {
     public static void main(String[] args) {
         System.out.println("给我提交成功啊喂！");
+        System.out.println("wuwuwu");
     }
 }
